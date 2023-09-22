@@ -8,9 +8,12 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 
 ### Lien 1 
 Expliquer pourquoi vous avez choisi ce lien. 
+https://youtu.be/uAOR6ib95kQ?si=UetyBJ1o-R4zbc4f 
+Cette oeuvre m'inspire puisque dans le vidéo on peut remarquer un mélange de médias que je trouve intéressant, soit de l'animation 2D, du vidéo, du graphisme ansi que de la musique. La composition est captivante et dynamique et donne le goût de bouger. C'est un des aspects de l'oeuvre que je trouve bien interessante.
 
 ### Lien 2 
 Expliquer pourquoi vous avez choisi ce lien.
+
 
 ### Lien 3 
 Expliquer pourquoi vous avez choisi ce lien.  

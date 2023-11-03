@@ -20,7 +20,7 @@ Développeur web
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi.
 
-Une entrepise qui m'inspire beaucoup serait NASA. Je suis passionnée de l'espace et donc je suis leur activité et je lis souvent des articles qu'ils publient. Pour ce qui n'en viens de l'artiste, je dirais George Lucas puisque c'est lui qui a réalisé l'oeuvre qui m'a suivis toute mon enfance et qy=ue je réécoute pratiquement annuelement.
+Une entrepise qui m'inspire beaucoup serait NASA. Je suis passionnée de l'espace et donc je suis leur activité et je lis souvent des articles qu'ils publient. Pour ce qui n'en viens de l'artiste, je dirais George Lucas puisque c'est lui qui a réalisé l'oeuvre qui m'a suivis toute mon enfance et que je réécoute pratiquement annuelement.
 
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
